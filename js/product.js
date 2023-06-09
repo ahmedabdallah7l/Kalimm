@@ -29,7 +29,7 @@ firstItem.addEventListener("click",()=>
         `,
         productGermanInstruction:`Chemische Reinigung – Handwäsche mit kaltem Wasser – kein Trockner
         `,
-        productImage:"./images/cart 1.png",
+        productImage:"../images/cart 1.png",
         productName:"Heritage Wool Handmade Kilim",
         productContent:`Our Kilim is hand-loomed Egyptian Wool which is all 100% handmade. This piece comes from our Botanical collection. The motifs were designed by adapting the organic forms of various plants with geometrical, cultur-al, and folkloric motifs.Some of these were inspired by motifs from classic Persian which carry symbolic mean-ings. The artisans who made this product are making fair wages and preserving Egyptian cultural heritage by practicing a craft that has been passed down to them generation to generation. Purchasing this product allows us to continue our mission of reviving and susaining local crafts and empowering their communities.
         `,
@@ -52,7 +52,7 @@ secondItem.addEventListener("click",()=>
         `,
         productGermanInstruction:`Chemische Reinigung – Handwäsche mit kaltem Wasser – kein Trockner
         `,
-        productImage:"./images/cart 2.png",
+        productImage:"../images/cart 2.png",
         productName:`Balochy Wool Handmade Kilim
         `,
         productContent:`Our  Kilim is hand-loomed Egyptian Wool which is all 100% handmade. This piece comes from our geometric collection, so it was important that tribute was given to the traditional kilims that Assiut artisans were accus-tomed to crafting. The designs from this collection updated them by reducing the amount of colors used, as well as repeating the shapes to create more uniform patterns to add a sense of modernity. The artisans who made this product are making fair wages and preserving Egyptian cultural heritage by practicing a craft that has been passed down to them generation to generation.
